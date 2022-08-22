@@ -1,0 +1,2 @@
+
+Todas las figuras comprenden un repositorio de figuras creadas para ser evaluadas en un curso sobre R programming.
